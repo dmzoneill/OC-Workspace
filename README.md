@@ -1,5 +1,9 @@
 # OC-Workspace
 
+<p align="center">
+  <img src=".github/logo.png" alt="OC-Workspace logo" width="128" />
+</p>
+
 Scripts for installing and using an OpenStack cloud on Ubuntu.
 
 ## Contents
